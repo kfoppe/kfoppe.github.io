@@ -25,6 +25,11 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	<style>
+						.aligncenter{
+							text-align: center;
+						}
+					</style>
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -100,7 +105,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: rgb(0, 0, 0);
 		font-weight: 300;
 		font-size: 13pt;
 	}
